@@ -1,12 +1,17 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi There! 👋;+I'm+Shouvik+Das!;" />
+  <span style="background: linear-gradient(to right, #00f, #fff); 
+               -webkit-background-clip: text; 
+               color: transparent;">
+    Shouvik Das
+  </span>
 </h1>
+
 
 
 <h3 align="center"> Developer | Designer | Dreamer 🚀 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvik-dev&label=Profile%20views&color=brightgreen&style=flat-square" alt="shouvik-dev" /> </p>
 
-    I’m a passionate front-end developer from Kolkata, currently in my final year of BCA. I’m constantly exploring new technologies, with a keen interest in IoT, and building awesome web experiences. With a flair for turning complex problems into elegant, user-friendly designs and interfaces, I enjoy creating intuitive digital solutions. Outside of tech, I have a deep passion for music, serving as a keyboardist with years of experience.
+I’m a passionate front-end developer from Kolkata, currently in my final year of BCA. I’m constantly exploring new technologies, with a keen interest in IoT, and building awesome web experiences. With a flair for turning complex problems into elegant, user-friendly designs and interfaces, I enjoy creating intuitive digital solutions. Outside of tech, I have a deep passion for music, serving as a keyboardist with years of experience.
 
 ---
 
